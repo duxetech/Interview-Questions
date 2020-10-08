@@ -182,6 +182,7 @@ func sumOfDiagnals(){
 
 sumOfDiagnals()
 
+/*
 
 How you patch the app
 
@@ -426,5 +427,5 @@ Add diagonals in a matrix
 Binary search
 Decode the series [-1,4,2,-5,3,9,6,1] such that output should be 0.25
 
-
+*/
 
