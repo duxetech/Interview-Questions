@@ -162,5 +162,22 @@ func binarySearch(in numbers: [Int], for value: Int) -> Int?
     return nil
 }
 
+func sumOfDiagnals(){
+    let arr = [[1,2,3],
+               [2,3,4],
+               [2,3,5]]
+    var sum = 0
+    let s = arr.count
+    for i in arr.indices {
+        for j in 0...i {
+            if i == j {
+               sum = sum + arr[i][j]
+                
+            }
+            
+        }
+    }
+    print(sum)
+}
 
-binarySearch(in: [1, 2, 3, 4], for: 4)
+sumOfDiagnals()
