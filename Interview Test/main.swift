@@ -181,3 +181,250 @@ func sumOfDiagnals(){
 }
 
 sumOfDiagnals()
+
+
+How you patch the app
+
+Static vs dynamic library
+
+Varying size of text in tv cell
+app thinning
+
+Image caching
+
+Custom framework
+
+MVVM using reactiveSwift
+
+Viper
+
+
+
+Diff b/w Notification Center and delegate
+Alamofire issue, when web service running in background
+Protocol vs closure
+Varying size of text in tv cell
+
+Stack view
+Closure
+Push notifications
+Unit testing
+Lazy loading
+Swift 4 & 3 differences
+How to  refactor code in better way.
+Generics
+Sylesheets
+multitasking
+Which callback to store value when app is killed
+Coredata & sqlite difference
+GCD vs Operation Queue
+Syling in swift
+App lifecycle
+Any vs Any Object
+Substring
+
+Private pod
+Obj c to swift
+reader writer
+
+Nscode
+Escaping, non escaping
+Ns copy
+Silence notification
+rich notification
+Constraint layout
+
+Xcode : Profile
+How do you handle memory leak
+Delegate memory leak
+
+Dispatch Group
+Multiple storyboard , how you handle conflict
+Dependency injection
+
+
+
+
+
+Code Branch : Merging
+Master, Client
+Conflicts, replace , merge
+
+Module,
+File structure of a project , based on MVVM
+For each module,
+
+Design for iphone, iPad
+
+
+How bridging header works?
+
+
+
+Apns
+
+AFNetworking
+
+Story board  -
+
+Sqlite vs coredata
+
+How to versioning, changes in
+
+Call by reference
+Polymorphism ; overload, override
+
+kvc, kvo
+GCD, Operation Queue,
+CD Migration
+
+Secured data storage
+
+NSArray vs Array
+Inout
+
+Bit coding
+
+
+Xib
+Push, pop
+Stack view, scroll view ,
+
+Not center
+Performance , memory tuning tools
+Threading
+Strong, weak
+Gcd
+Flat map
+Closure
+
+
+Apple certification, distribution process
+Access spec
+Deletion rules
+
+Static, private, how singleton works
+NSDictionary, NSArray
+Lazy loading
+Multiple inheritance
+
+
+Issues faced :
+ Core data versioning, migration ,
+pod issues ,
+push notification
+
+
+Crashlytics, google analytics, flurry
+
+Parsing: XML and JSON
+,
+
+Playing the role of Product Owner (PO), suggesting features, product ideas.
+Creating stories in JIRA board, assigning story points, creating tasks for the stories
+
+
+
+————————————————————————————
+
+
+View controller life cycle
+App delegate life cycle
+App states custom delegate
+Notification Center
+In app purchase
+Push Notification
+Local notification
+
+
+Coredata relationships
+Coredata version migrations
+Coredata Deletion rules
+Caching of data, when internet is not available
+Number of cells in a table view
+GCD
+
+CLLocation Delegate
+How to get the current location of user?
+
+Firebase usage?
+How to analyse app crash from customer devices?
+Crashlytics
+Fabric
+App analytics
+
+
+Architecture used ?
+: MVC, MVVM
+
+Size 0f navigation bar
+View attribute   <0
+Multiple storyboards
+iPad design
+assertion
+Splitview
+Stackview
+
+
+Generics
+ Optional Chaining
+
+
+
+If app is slow ,reasons, how you troubleshoot n fix ?
+
+Lazy, defer
+Call by reference
+Completion handler
+Keychain
+Performance tuning
+
+Diff app id n bundle id
+
+Test app on phone
+Testflight
+
+
+performance and memory tuning with tools
+
+Continous Integration :  Jenkins
+
+ Migration from swift [3 to 4] , any issues
+
+ Runtime, compile time polymorphism
+
+Oops concepts in swift
+
+Kinds of deployment
+
+Structure vs class
+
+Pro cons of singleton
+
+Access specifiers
+
+optional Protocol
+
+
+
+
+GCD
+
+Strong vs weak
+
+DispatchQueue
+
+
+Code coverage,
+Unit tests
+
+
+Tasks :
+Find which is a bigger number in an array without using inbuilt functions
+Pascal triangle
+Add diagonals in a matrix
+Binary search
+Decode the series [-1,4,2,-5,3,9,6,1] such that output should be 0.25
+
+
+
